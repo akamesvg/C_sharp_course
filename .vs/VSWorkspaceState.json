@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\WebApplication1",
-    "\\WebApplication1\\wwwroot",
-    "\\ЛР4"
+    "\\WebApplication1\\WebApplication1\\wwwroot"
   ],
-  "SelectedNode": "\\WebApplication1\\Program.cs",
+  "SelectedNode": "\\WebApplication1",
   "PreviewInSolutionExplorer": true
 }

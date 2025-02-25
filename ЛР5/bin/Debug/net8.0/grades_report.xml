@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLearner xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Learner>
+    <FullName>илюля</FullName>
+    <ScoreList>
+      <Assessment>
+        <Course>PhysicalEducation</Course>
+        <Mark>5</Mark>
+        <Timestamp>2025-02-26T04:27:59.7108985+08:00</Timestamp>
+      </Assessment>
+    </ScoreList>
+  </Learner>
+</ArrayOfLearner>
