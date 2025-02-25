@@ -1,77 +1,89 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Список студентов</title>
+    <title>Студенты</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         body {
-            font-family: Arial, sans-serif;
+            font-family: "Segoe UI", sans-serif;
+            background: linear-gradient(135deg, #6a11cb, #2575fc);
+            color: white;
             display: flex;
             flex-direction: column;
             align-items: center;
+            justify-content: center;
+            min-height: 100vh;
             padding: 2rem;
-            background-color: #f4f4f9;
         }
 
         h1 {
-            color: #333;
+            margin-bottom: 1rem;
+            font-size: 2rem;
+            text-align: center;
         }
 
-        a {
-            color: #007bff;
-            text-decoration: none;
+        .btn {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            padding: 12px 20px;
             font-size: 1.2rem;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background 0.3s ease-in-out;
             margin-bottom: 1rem;
         }
 
-            a:hover {
-                text-decoration: underline;
+            .btn:hover {
+                background: rgba(255, 255, 255, 0.4);
             }
 
-        table {
-            width: 80%;
-            border-collapse: collapse;
-            margin-top: 1rem;
-            background: white;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1rem;
+            width: 90%;
+            max-width: 1000px;
         }
 
-        th, td {
-            padding: 12px;
-            text-align: left;
-            border-bottom: 1px solid #ddd;
+        .student-card {
+            background: rgba(255, 255, 255, 0.15);
+            padding: 1.5rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            backdrop-filter: blur(10px);
+            text-align: center;
+            transition: transform 0.3s ease-in-out;
         }
 
-        th {
-            background-color: #007bff;
-            color: white;
-        }
+            .student-card:hover {
+                transform: scale(1.05);
+            }
 
-        tr:hover {
-            background-color: #f1f1f1;
-        }
+            .student-card h2 {
+                margin-bottom: 0.5rem;
+            }
+
+            .student-card p {
+                opacity: 0.8;
+            }
     </style>
 </head>
 <body>
     <h1>Список студентов</h1>
-    <a href="/">На главную</a>
-    <table id="studentsTable">
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>Имя</th>
-                <th>Фамилия</th>
-                <th>Email</th>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- Строки студентов будут добавлены сюда -->
-        </tbody>
-    </table>
+    <a href="/" class="btn">На главную</a>
+    <div class="container" id="studentsContainer">
+        <!-- Карточки студентов будут добавляться сюда -->
+    </div>
 
     <script>
-        // Функция для загрузки данных студентов
         async function loadStudents() {
             try {
                 const response = await fetch('/students');
@@ -80,25 +92,23 @@
                 }
                 const students = await response.json();
 
-                const tableBody = document.querySelector('#studentsTable tbody');
-                tableBody.innerHTML = ''; // Очистка таблицы перед добавлением новых данных
+                const container = document.getElementById('studentsContainer');
+                container.innerHTML = '';
 
                 students.forEach(student => {
-                    const row = document.createElement('tr');
-                    row.innerHTML = `
-                        <td>${student.id}</td>
-                        <td>${student.firstName}</td>
-                        <td>${student.lastName}</td>
-                        <td>${student.email}</td>
-                    `;
-                    tableBody.appendChild(row);
+                    const card = document.createElement('div');
+                    card.classList.add('student-card');
+                    card.innerHTML = `
+                            <h2>${student.firstName} ${student.lastName}</h2>
+                            <p>Email: ${student.email}</p>
+                        `;
+                    container.appendChild(card);
                 });
             } catch (error) {
                 console.error('Ошибка:', error);
             }
         }
 
-        // Загрузить данные студентов при загрузке страницы
         document.addEventListener('DOMContentLoaded', loadStudents);
     </script>
 </body>
