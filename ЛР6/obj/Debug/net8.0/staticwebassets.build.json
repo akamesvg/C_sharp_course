@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "f3ygYHA7fZz+jXnip3cqkpEizx6xjeo1AnbY7wJYJas=",
+  "Source": "WebApplication1",
+  "BasePath": "_content/WebApplication1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1\\wwwroot",
+      "Source": "WebApplication1",
+      "ContentRoot": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lsqduhsxst",
+      "Integrity": "5Yob8PYQ+zJaCF79gyQzKzAyXo07gCyviObD+W62feQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\wwwroot\\students.html",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "students#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "me8bs7wd54",
+      "Integrity": "TlcAfKTL/DV+uuLzxxHLXLTkmjdAwvsE8AOPx6KqoP8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\students.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Yob8PYQ+zJaCF79gyQzKzAyXo07gCyviObD+W62feQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 18:46:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Yob8PYQ+zJaCF79gyQzKzAyXo07gCyviObD+W62feQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.lsqduhsxst.html",
+      "AssetFile": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Yob8PYQ+zJaCF79gyQzKzAyXo07gCyviObD+W62feQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 18:46:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lsqduhsxst"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Yob8PYQ+zJaCF79gyQzKzAyXo07gCyviObD+W62feQ="
+        }
+      ]
+    },
+    {
+      "Route": "students.html",
+      "AssetFile": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\wwwroot\\students.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TlcAfKTL/DV+uuLzxxHLXLTkmjdAwvsE8AOPx6KqoP8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 18:46:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TlcAfKTL/DV+uuLzxxHLXLTkmjdAwvsE8AOPx6KqoP8="
+        }
+      ]
+    },
+    {
+      "Route": "students.me8bs7wd54.html",
+      "AssetFile": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\wwwroot\\students.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TlcAfKTL/DV+uuLzxxHLXLTkmjdAwvsE8AOPx6KqoP8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 18:46:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "me8bs7wd54"
+        },
+        {
+          "Name": "label",
+          "Value": "students.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TlcAfKTL/DV+uuLzxxHLXLTkmjdAwvsE8AOPx6KqoP8="
+        }
+      ]
+    }
+  ]
+}

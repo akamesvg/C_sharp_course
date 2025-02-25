@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Список студентов</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem;
+            background-color: #f4f4f9;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            margin-top: 1rem;
+            background: white;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #007bff;
+            color: white;
+        }
+
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+    <h1>Список студентов</h1>
+    <a href="/">На главную</a>
+    <table id="studentsTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Имя</th>
+                <th>Фамилия</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Строки студентов будут добавлены сюда -->
+        </tbody>
+    </table>
+
+    <script>
+        // Функция для загрузки данных студентов
+        async function loadStudents() {
+            try {
+                const response = await fetch('/students');
+                if (!response.ok) {
+                    throw new Error('Ошибка при загрузке данных');
+                }
+                const students = await response.json();
+
+                const tableBody = document.querySelector('#studentsTable tbody');
+                tableBody.innerHTML = ''; // Очистка таблицы перед добавлением новых данных
+
+                students.forEach(student => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${student.id}</td>
+                        <td>${student.firstName}</td>
+                        <td>${student.lastName}</td>
+                        <td>${student.email}</td>
+                    `;
+                    tableBody.appendChild(row);
+                });
+            } catch (error) {
+                console.error('Ошибка:', error);
+            }
+        }
+
+        // Загрузить данные студентов при загрузке страницы
+        document.addEventListener('DOMContentLoaded', loadStudents);
+    </script>
+</body>
+</html>

@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u041B\u04203\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amade\\source\\repos\\C_sharp_course\\\u041B\u04201-2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u041B\u04201-2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amade\\source\\repos\\C_sharp_course\\\u041B\u04204\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u041B\u04204\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amade\\source\\repos\\C_sharp_course\\\u041B\u04201-2\\\u041B\u04201\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u041B\u04201-2\\\u041B\u04201\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\\u041B\u04201-2\\Program.cs",
+              "RelativeDocumentMoniker": "\u041B\u04201-2\\Program.cs",
+              "ToolTip": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\\u041B\u04201-2\\Program.cs",
+              "RelativeToolTip": "\u041B\u04201-2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:00:08.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\\u041B\u04204\\Program.cs",
+              "RelativeDocumentMoniker": "\u041B\u04204\\Program.cs",
+              "ToolTip": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\\u041B\u04204\\Program.cs",
+              "RelativeToolTip": "\u041B\u04204\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:56:59.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,14 +66,14 @@
               "RelativeDocumentMoniker": "\u041B\u04203\\Program.cs",
               "ToolTip": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\\u041B\u04203\\Program.cs",
               "RelativeToolTip": "\u041B\u04203\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T12:12:33.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\\u041B\u04201-2\\\u041B\u04201\\Program.cs",
               "RelativeDocumentMoniker": "\u041B\u04201-2\\\u041B\u04201\\Program.cs",
@@ -47,8 +81,7 @@
               "RelativeToolTip": "\u041B\u04201-2\\\u041B\u04201\\Program.cs",
               "ViewState": "AgIAAL8AAAAAAAAAAAAwwPgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T12:11:11.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T12:11:11.409Z"
             }
           ]
         }

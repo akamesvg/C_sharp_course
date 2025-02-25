@@ -12,3 +12,18 @@ S:\ФЭиА\ИСиТ-22\С# Академия\Прудников\ЛР3\ЛР3\obj\
 S:\ФЭиА\ИСиТ-22\С# Академия\Прудников\ЛР3\ЛР3\obj\Debug\net8.0\ЛР3.pdb
 S:\ФЭиА\ИСиТ-22\С# Академия\Прудников\ЛР3\ЛР3\obj\Debug\net8.0\ЛР3.genruntimeconfig.cache
 S:\ФЭиА\ИСиТ-22\С# Академия\Прудников\ЛР3\ЛР3\obj\Debug\net8.0\ref\ЛР3.dll
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\obj\Debug\net8.0\ЛР3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\obj\Debug\net8.0\ЛР3.AssemblyInfoInputs.cache
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\obj\Debug\net8.0\ЛР3.AssemblyInfo.cs
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\obj\Debug\net8.0\ЛР3.csproj.CoreCompileInputs.cache
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\obj\Debug\net8.0\ЛР3.sourcelink.json
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\obj\Debug\net8.0\ЛР3.dll
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\obj\Debug\net8.0\refint\ЛР3.dll
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\obj\Debug\net8.0\ЛР3.pdb
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\bin\Debug\net8.0\ЛР3.exe
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\bin\Debug\net8.0\ЛР3.deps.json
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\bin\Debug\net8.0\ЛР3.runtimeconfig.json
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\bin\Debug\net8.0\ЛР3.dll
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\bin\Debug\net8.0\ЛР3.pdb
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\obj\Debug\net8.0\ЛР3.genruntimeconfig.cache
+C:\Users\amade\source\repos\C_sharp_course\ЛР3\obj\Debug\net8.0\ref\ЛР3.dll
