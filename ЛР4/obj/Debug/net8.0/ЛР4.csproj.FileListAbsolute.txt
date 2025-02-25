@@ -1,0 +1,15 @@
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\bin\Debug\net8.0\ЛР4.exe
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\bin\Debug\net8.0\ЛР4.deps.json
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\bin\Debug\net8.0\ЛР4.runtimeconfig.json
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\bin\Debug\net8.0\ЛР4.dll
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\bin\Debug\net8.0\ЛР4.pdb
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\obj\Debug\net8.0\ЛР4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\obj\Debug\net8.0\ЛР4.AssemblyInfoInputs.cache
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\obj\Debug\net8.0\ЛР4.AssemblyInfo.cs
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\obj\Debug\net8.0\ЛР4.csproj.CoreCompileInputs.cache
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\obj\Debug\net8.0\ЛР4.sourcelink.json
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\obj\Debug\net8.0\ЛР4.dll
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\obj\Debug\net8.0\refint\ЛР4.dll
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\obj\Debug\net8.0\ЛР4.pdb
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\obj\Debug\net8.0\ЛР4.genruntimeconfig.cache
+C:\Users\amade\source\repos\C_sharp_course\ЛР4\obj\Debug\net8.0\ref\ЛР4.dll
