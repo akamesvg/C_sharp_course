@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\amade\\source\\repos\\C_sharp_course\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\amade\\source\\repos\\C_sharp_course\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\amade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

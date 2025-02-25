@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\amade\\desktop\\c--main\\c--main\\webapplication1\\webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\amade\\desktop\\c--main\\c--main\\webapplication1\\webapplication1\\wwwroot\\students.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\students.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\amade\\desktop\\c--main\\c--main\\webapplication1\\webapplication1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\amade\\desktop\\c--main\\c--main\\webapplication1\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\amade\\desktop\\c--main\\c--main\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\amade\\desktop\\c--main\\c--main\\webapplication1\\webapplication1\\model\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\amade\\desktop\\c--main\\c--main\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\amade\\desktop\\c--main\\c--main\\webapplication1\\webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4CAAEC-50BB-45E0-85AC-6BDCA3FFACBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +42,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "students.html",
+              "DocumentMoniker": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\wwwroot\\students.html",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\students.html",
+              "ToolTip": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\wwwroot\\students.html",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\students.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-25T19:40:41.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\index.html",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwEYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-25T19:40:21.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WebApplication1.http",
               "DocumentMoniker": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\WebApplication1.http",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
@@ -47,26 +81,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T18:55:54.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Models.cs",
               "DocumentMoniker": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\Model\\Models.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Model\\Models.cs",
               "ToolTip": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\Model\\Models.cs",
               "RelativeToolTip": "WebApplication1\\Model\\Models.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T18:55:41.517Z",
               "EditorCaption": ""
@@ -79,7 +113,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "C:\\Users\\amade\\Desktop\\C--main\\C--main\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwEAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T18:50:40.792Z",
               "EditorCaption": ""

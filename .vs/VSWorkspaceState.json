@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApplication1",
+    "\\WebApplication1\\wwwroot",
+    "\\ЛР4"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\WebApplication1\\Program.cs",
   "PreviewInSolutionExplorer": true
 }
