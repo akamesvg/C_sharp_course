@@ -1,0 +1,14 @@
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\bin\Debug\net8.0\LR2_1.exe
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\bin\Debug\net8.0\LR2_1.deps.json
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\bin\Debug\net8.0\LR2_1.runtimeconfig.json
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\bin\Debug\net8.0\LR2_1.dll
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\bin\Debug\net8.0\LR2_1.pdb
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\obj\Debug\net8.0\LR2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\obj\Debug\net8.0\LR2_1.AssemblyInfoInputs.cache
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\obj\Debug\net8.0\LR2_1.AssemblyInfo.cs
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\obj\Debug\net8.0\LR2_1.csproj.CoreCompileInputs.cache
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\obj\Debug\net8.0\LR2_1.dll
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\obj\Debug\net8.0\refint\LR2_1.dll
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\obj\Debug\net8.0\LR2_1.pdb
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\obj\Debug\net8.0\LR2_1.genruntimeconfig.cache
+C:\Users\Maslenok\source\repos\LR2_1\LR2_1\obj\Debug\net8.0\ref\LR2_1.dll
