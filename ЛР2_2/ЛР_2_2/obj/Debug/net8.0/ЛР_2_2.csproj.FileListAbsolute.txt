@@ -69,3 +69,6 @@ C:\Users\Maslenok\source\repos\ЛР_2_2\ЛР_2_2\obj\Debug\net8.0\refint\ЛР_2_
 C:\Users\Maslenok\source\repos\ЛР_2_2\ЛР_2_2\obj\Debug\net8.0\ЛР_2_2.pdb
 C:\Users\Maslenok\source\repos\ЛР_2_2\ЛР_2_2\obj\Debug\net8.0\ЛР_2_2.genruntimeconfig.cache
 C:\Users\Maslenok\source\repos\ЛР_2_2\ЛР_2_2\obj\Debug\net8.0\ref\ЛР_2_2.dll
+C:\Users\amade\source\repos\C_sharp_course\ЛР2_2\ЛР_2_2\obj\Debug\net8.0\ЛР_2_2.dll
+C:\Users\amade\source\repos\C_sharp_course\ЛР2_2\ЛР_2_2\obj\Debug\net8.0\refint\ЛР_2_2.dll
+C:\Users\amade\source\repos\C_sharp_course\ЛР2_2\ЛР_2_2\obj\Debug\net8.0\ЛР_2_2.pdb

@@ -9,20 +9,20 @@ namespace LR2_1
 {
     class Program05
     {
-        static async Task Main05(string[] args)
+        static async Task Main(string[] args)
         {
             List<Grade> grades = new List<Grade>
         {
-            new Grade { StudentName = "Кирилл", Subject = "Математика", Score = 90 },
-            new Grade { StudentName = "Кирилл", Subject = "Физика", Score = 80 },
-            new Grade { StudentName = "Ярослав", Subject = "Математика", Score = 95 },
-            new Grade { StudentName = "Ярослав", Subject = "Физика", Score = 85 },
-            new Grade { StudentName = "Иван", Subject = "Математика", Score = 75 },
+            new Grade { StudentName = "Александр", Subject = "Математика", Score = 90 },
+            new Grade { StudentName = "Ярополк", Subject = "Физика", Score = 80 },
+            new Grade { StudentName = "Святослав", Subject = "Математика", Score = 95 },
+            new Grade { StudentName = "Павел", Subject = "Физика", Score = 85 },
+            new Grade { StudentName = "Илья", Subject = "Математика", Score = 75 },
             new Grade { StudentName = "Иван", Subject = "Физика", Score = 90 }
         };
 
             
-            List<string> students = new List<string> { "Кирилл", "Ярослав", "Иван" };
+            List<string> students = new List<string> { "Александр", "Ярополк", "Святослав", "Павел", "Илья", "Иван" };
 
             var gradeService = new GradeServiceAsync();
 
