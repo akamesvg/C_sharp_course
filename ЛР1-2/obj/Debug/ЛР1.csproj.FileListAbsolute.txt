@@ -1,0 +1,2 @@
+C:\Users\amade\source\repos\C_sharp_course\ЛР1-2\obj\Debug\Student.exe
+C:\Users\amade\source\repos\C_sharp_course\ЛР1-2\obj\Debug\Student.pdb
