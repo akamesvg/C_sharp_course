@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|c:\\users\\amade\\source\\repos\\c_sharp_course\\lr2_1\\lr2_1_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|solutionrelative:lr2_1_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|c:\\users\\amade\\source\\repos\\c_sharp_course\\lr2_1\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|solutionrelative:grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|c:\\users\\amade\\source\\repos\\c_sharp_course\\lr2_1\\lr2_1_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|solutionrelative:lr2_1_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|c:\\users\\amade\\source\\repos\\c_sharp_course\\lr2_1\\lr2_1_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|solutionrelative:lr2_1_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|c:\\users\\amade\\source\\repos\\c_sharp_course\\lr2_1\\lr2_1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|solutionrelative:lr2_1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|c:\\users\\amade\\source\\repos\\c_sharp_course\\lr2_1\\lr2_1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|solutionrelative:lr2_1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|c:\\users\\amade\\source\\repos\\c_sharp_course\\lr2_1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E87ABC8-7B1D-49ED-981A-DC8E4ECF59A2}|LR2_1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:54:56.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR2_1_6.cs",
+              "DocumentMoniker": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\LR2_1_6.cs",
+              "RelativeDocumentMoniker": "LR2_1_6.cs",
+              "ToolTip": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\LR2_1_6.cs*",
+              "RelativeToolTip": "LR2_1_6.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:54:27.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\Grade.cs",
+              "RelativeDocumentMoniker": "Grade.cs",
+              "ToolTip": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\Grade.cs",
+              "RelativeToolTip": "Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:52:46.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LR2_1_5.cs",
+              "DocumentMoniker": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\LR2_1_5.cs",
+              "RelativeDocumentMoniker": "LR2_1_5.cs",
+              "ToolTip": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\LR2_1_5.cs*",
+              "RelativeToolTip": "LR2_1_5.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:52:06.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LR2_1_3.cs",
+              "DocumentMoniker": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\LR2_1_3.cs",
+              "RelativeDocumentMoniker": "LR2_1_3.cs",
+              "ToolTip": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\LR2_1_3.cs",
+              "RelativeToolTip": "LR2_1_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:50:35.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LR2_1_2.cs",
+              "DocumentMoniker": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\LR2_1_2.cs",
+              "RelativeDocumentMoniker": "LR2_1_2.cs",
+              "ToolTip": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\LR2_1_2.cs",
+              "RelativeToolTip": "LR2_1_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:48:39.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LR2_1_1.cs",
+              "DocumentMoniker": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\LR2_1_1.cs",
+              "RelativeDocumentMoniker": "LR2_1_1.cs",
+              "ToolTip": "C:\\Users\\amade\\source\\repos\\C_sharp_course\\LR2_1\\LR2_1_1.cs",
+              "RelativeToolTip": "LR2_1_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:43:59.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
